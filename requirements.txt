@@ -4,3 +4,4 @@ Pillow
 jupyterlab
 jupyter-tensorboard
 pandas
+streamlit

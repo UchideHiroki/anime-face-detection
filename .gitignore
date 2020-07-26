@@ -1,1 +1,6 @@
-.devcontainer/devcontainer.json
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+input/*
+*/__pycache__/*
+model/*
