@@ -12,6 +12,7 @@ RUN apt-get update \
     && apt-get install -y tree \
     && apt-get install -y libsm6 libxext6 libxrender-dev \
     && apt-get install -y curl \
+    && apt-get install -y git \
     && pip3 install --upgrade pip
 # USER $NB_UID
 # 作業するディレクトリを変更
