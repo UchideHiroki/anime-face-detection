@@ -1,0 +1,6 @@
+tensorflow-hub
+opencv-python
+Pillow
+jupyterlab
+jupyter-tensorboard
+pandas
